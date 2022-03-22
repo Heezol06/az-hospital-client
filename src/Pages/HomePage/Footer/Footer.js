@@ -6,8 +6,8 @@ const Footer = () => {
       <div className=" bg-gray-700">
         <div className="max-w-2xl mx-auto text-white py-10">
           <div className="text-center">
-            <h3 className="text-3xl mb-3"> Download our TravelBlog App </h3>
-            <p> Get Travel News, every day. </p>
+            <h3 className="text-3xl mb-3"> Download our Az-Hospitals App </h3>
+            <p> Get Health tips, every day. </p>
             <div className="flex justify-center my-10">
               <div className="flex items-center border rounded-lg px-4 py-2 w-52 mx-2">
                 <img
